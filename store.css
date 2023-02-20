@@ -1,0 +1,61 @@
+/* END OF SHOP CSS */
+
+
+
+.navbar {
+    box-shadow: var(--box-shadow);
+
+}
+
+.navbar. nav-link {
+    font-size: 146px;
+    font-weight: 900;
+}
+
+.btn {
+    padding: 14px 18px ; 
+    border-width: 2px ;
+    border-radius: 0;
+
+}
+
+section {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+/* Card effect */
+
+.card-effect {
+    box-shadow: var(--box-shadow);
+    background-color: #fff;
+    padding: 25px;
+    transition: all 0.35s ease;
+}
+
+.card-effect:hover{
+    box-shadow: none;
+    transform: translateY(5px);
+
+}
+
+form input.form-control {
+    height: 56px;
+}
+form .form-control{
+    border: transparent;
+    border-radius: 0;
+    background-color: rgba(250, 19, 19, 0.02);
+
+}
+/* Card effect ends */
+
+body {
+    
+}
+
+section {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    background-color: rgb(166, 120, 240);
+}
